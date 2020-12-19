@@ -9,8 +9,8 @@
 ```
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null
 !wget -q https://downloads.apache.org/spark/spark-2.4.7/spark-2.4.7-bin-hadoop2.7.tgz
-!tar xf spark-2.4.7-bin-hadoop2.7.tgz!pip
-install -q findspark
+!tar xf spark-2.4.7-bin-hadoop2.7.tgz
+!pip install -q findspark
 ```
 
 ### 3. Jalankan kodigan di bawah untuk mengatur path dari spark nya
